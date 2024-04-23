@@ -9,11 +9,11 @@
 
 ### Overview
 
-**Mintbase templates** are a compilation of web3 project examples on Near Protocol, providing developers with starter projects and practical use cases. Currently the number of templates are limited and need more community/developer involvement.
+**Mintbase templates** are a compilation of Web3 project examples on Near Protocol, providing developers with starter projects and practical use cases. Currently the number of templates are limited, as are the options for methods to build and deploy, and more community/developer involvement is needed as well.
 
-**Jutsu** is an AI powered developer platform where developer can leverage our WebIDE and Copilot to build any DApp 10X faster.
+**Jutsu** is an AI powered developer platform where developers can leverage our WebIDE, Copilot, and prompt-based frontend generator to build any DApp 10X faster.
 
-The purpose of this project is to build the best developer experience that will empower anyone to build and contribute to Mintbase templates.
+The purpose of this project is to build the best developer experience that will empower anyone to build, contribute to, and utilize Mintbase templates.
 
 Here are the steps (DEVX):
 
@@ -26,22 +26,19 @@ Here are the steps (DEVX):
 
 ![Jutsu Mintbase Integration 2](../images/jutsu-minbase-2.png)
 
-- Step 4: User will be able to deploy their DApp in IPFS, Arweave and NEARFS using Web4
-- Step 5: (TBD) User will be able to deploy their DApp as BOS (RoC) in Near Social
-
-> BOS (RoC) implementation depends on the stability and release of the BOS Web Engine by Pagoda team.
+- Step 4: User will be able to deploy their DApp in IPFS, Arweave, and NEARFS using Web4.
+  
 
 ### Ecosystem Fit
 
 Jutsu, with our AI powered Web3 IDE, slots perfectly into the Mintbase ecosystem, making it easier for developers and founders to use and deploy Mintbase templates. By incorporating Mintbase's extensive template library directly into Jutsu, we offer a dual advantage:
 
-- Users can now open Mintbase templates within the Jutsu platform, and benefit from our comprehensive suite of developer tools.
-- Users will be able to take advantage of Jutsu’s advance WebIDE features like copilot, code generation, debugging, and doc generation, generative UI, and Google Docs-style collaboration for teams.
+- Users will be able to open Mintbase templates within the Jutsu platform, and benefit from our comprehensive suite of developer tools.
+- Users will be able to take advantage of Jutsu’s advance WebIDE features like our Web3 copilot, code generation, debugging, and doc generation, generative UI, and Google Docs-style collaboration for teams.
 
 This strategic integration aims to provide Mintbase users with an effortless start and an enriched coding and deployment experience through Jutsu, ultimately elevating the developer experience within the Mintbase and broader NEAR ecosystem.
 
 Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-
 We are not aware of any similar project in the Mintbase/NEAR ecosystem.
 
 ## Team:
@@ -65,7 +62,7 @@ We are not aware of any similar project in the Mintbase/NEAR ecosystem.
 
 ### Team's experience
 
-We are the team behind Jutsu WebIDE - one of the most used developer tool for BOS component development. We have a proven track record of building and delivering product that developers love.
+We are the team behind Jutsu WebIDE - one of the most used developer tools for BOS component development. We have a proven track record of building and delivering product that developers love.
 
 Our team at Jutsu is composed of professionals with a diverse set of skills and experiences, particularly in the realms of Web3, AI, growth and marketing. Here’s a closer look at our core team members and their contributions:
 
